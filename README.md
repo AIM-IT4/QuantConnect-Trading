@@ -1,15 +1,6 @@
 # QuantConnect-Trading
 
-
-QuantConnect Trading Strategy
-
-
-Amit Kumar Jha (M20DH002)
-Create readme file for repo in which I have implemented simple trading strategy using QuantConnect 
-
-Sure, here is a sample README file you could use for your QuantConnect trading strategy repository:
-
-QuantConnect Trading Strategy
+Welcome 
 This repository contains a simple trading strategy implemented using QuantConnect. The strategy is based on [insert your strategy's objective/idea here].
 
 Getting Started
